@@ -1,0 +1,19 @@
+{
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliGoIt/goit-js-hw-08.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliGoIt/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/NataliGoIt/goit-js-hw-08#readme"
+}
