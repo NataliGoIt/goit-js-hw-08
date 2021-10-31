@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NataliGoIt/goit-js-hw-08/issues"
   },
-  "homepage": "https://github.com/NataliGoIt/goit-js-hw-08#readme"
+  "homepage": "https://github.com/NataliGoIt/goit-js-hw-08#readme",
+  "dependencies": {
+    "simplelightbox": "^2.9.0"
+  }
 }
