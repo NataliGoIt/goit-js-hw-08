@@ -28,7 +28,6 @@ function populateTextarea() {
     savedMessage = JSON.parse(savedMessage);
     Object.entries(savedMessage).forEach(([name, value]) => {
       refs.form.elements[name].value = value;
-      formData[name] = value;
     });
   }
 }
